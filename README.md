@@ -1,2 +1,6 @@
-# Bikecraft
-Projeto desenvolvido junto com o curso de Desenvolvimento Web da Origamid
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript 
