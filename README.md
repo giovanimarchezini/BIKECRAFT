@@ -1,7 +1,7 @@
 <h1 align="center"> BickCraft </h1>
 
 <p align="center">
-  <img alt="License" src="https://raw.githubusercontent.com/giovanimarchezini/Bikecraft/main/imagem-destacada/Bikecraft.jpg>
+  <img alt="License" src="https://raw.githubusercontent.com/giovanimarchezini/Bikecraft/main/imagem-destacada/Bikecraft.jpg">
 </p>
 
 <p align="center">
